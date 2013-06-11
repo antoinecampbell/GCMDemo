@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GCM Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="no_account_text">Don\'t have an account?</string>
+    <string name="account_text">Account</string>
+    <string name="no_account_selected_text">No Account Selected</string>
+    <string name="register_text">Register</string>
+    <string name="unregister_text">Unregister</string>
+    <string name="gcm_userid_text">GCM User ID:</string>
+    <string name="message_text">Message:</string>
+    <string name="enter_message_text">Enter your message</string>
+    <string name="send_message_text">Send</string>
+
+</resources>

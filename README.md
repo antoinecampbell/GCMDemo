@@ -1,4 +1,4 @@
 GCMDemo
 =======
 
-GCMDemo
+Google Cloud Messaging Demo
